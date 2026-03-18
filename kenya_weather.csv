@@ -1,6 +1,20 @@
 City,Temperature (°C),Humidity (%),Pressure (hPa),Weather,Wind Speed (m/s),Rain (mm last 1h)
-Nairobi,27.74,46,1012,overcast clouds,3.82,0.0
-Mombasa,32.22,62,1011,light rain,3.09,0.13
-Kisumu,26.24,52,1011,overcast clouds,2.65,0.0
-Nakuru,24.11,51,1013,light rain,1.26,0.35
-Eldoret,23.55,40,1012,light rain,2.01,0.12
+Nairobi,29.98,37,1008,overcast clouds,6.13,0.0
+Mombasa,32.22,66,1008,light rain,5.14,0.31
+Kisumu,27.12,54,1008,light rain,1.6,0.21
+Nakuru,23.77,53,1010,light rain,3.53,0.52
+Eldoret,23.47,57,1012,light rain,3.6,0.8
+Thika,25.52,55,1009,light rain,3.12,0.5
+Nyeri,23.51,61,1010,light rain,2.62,0.88
+Meru,23.18,68,1011,light rain,2.72,0.93
+Garissa,34.18,41,1007,light rain,3.09,0.13
+Kitale,21.28,55,1010,light rain,4.79,0.15
+Nyanza,23.9,58,1010,light rain,2.67,0.52
+Machakos,23.32,63,1010,moderate rain,3.09,1.22
+Kakamega,23.32,59,1009,light rain,1.66,0.38
+Busia,29.42,40,1007,overcast clouds,3.43,0.0
+Lamu,29.86,66,1008,overcast clouds,4.52,0.0
+Wajir,34.8,35,1006,overcast clouds,5.11,0.0
+Ngong,24.62,57,1009,light rain,4.12,0.38
+Kajiado,24.02,53,1010,light rain,3.47,0.68
+Embu,26.06,57,1009,light rain,2.9,0.69
