@@ -1,0 +1,6 @@
+City,Temperature (°C),Humidity (%),Pressure (hPa),Weather,Wind Speed (m/s),Rain (mm last 1h)
+Nairobi,27.74,46,1012,overcast clouds,3.82,0.0
+Mombasa,32.22,62,1011,light rain,3.09,0.13
+Kisumu,26.24,52,1011,overcast clouds,2.65,0.0
+Nakuru,24.11,51,1013,light rain,1.26,0.35
+Eldoret,23.55,40,1012,light rain,2.01,0.12
